@@ -1,2 +1,4 @@
-# hello-world-task-2
-Repo for task hello-world-task-2
+# Task: hello-world-task
+
+Brief: Update the page to display Hello Render!
+Round: 2
